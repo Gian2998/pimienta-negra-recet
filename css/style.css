@@ -1,0 +1,222 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+body{
+    background-image: url(../imagenes/fondo122.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+
+header{
+    width: 100%;
+    background-image:url(../imagenes/fondo-11.gif);
+    background-repeat: no-repeat;
+    background-position: 0px 0px 0px 500px 200px;
+}
+
+#titulo{
+    margin-left: 35px;
+    margin-top: 15px;
+    color: white;
+    font-size: 36px;
+}
+
+
+
+#navegador{
+    
+  
+    
+
+}
+.imagenizq{
+    
+    
+    width: 250px;
+    height: 200px;
+    height: 200px;
+    margin-left: 30px;
+    border-radius: 100px;
+}
+
+.imagen-nav{
+    margin-left: 1px;
+    padding-left: 20px;
+    margin-top: 15px;
+    border-radius: 900px;
+}
+
+
+#navegador ul{
+   
+    list-style-type: none;
+  
+    
+    overflow: hidden;
+}
+ 
+#navegador ul li{
+   
+    float: right;
+    
+}
+
+#navegador ul li a {
+     text-align: center;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 15px 80px;
+    text-decoration: none;
+    border-right: 1px solid black;
+    font-size: 27px;
+   
+}
+
+
+
+
+#navegador ul li a:hover{
+    background-color: darkgrey;
+    border-radius: 100px;
+    color: black;
+}
+
+
+
+.section{
+    float: left;
+    
+    margin-top: 100px;
+    height: 670px;
+    width: 680px ;
+    border-radius: 100px;
+
+    background-position: center;
+  
+    background-repeat: repeat;
+        
+}
+
+.section h1{
+    font-size: 35px;
+    margin-left: 200px;
+    color: white;
+    
+    
+}
+
+.imagen-pollo{
+    
+    width: 500px;
+    height: 320px;
+    margin-left: 60px;
+    margin-top: 40px;
+    border-radius: 20px;
+    
+}
+
+.parrafo{
+    font-size: 20px;
+    text-align: center;
+   
+    width: 640px;
+    margin-top: 40px;
+    color: white;
+}
+
+
+.derecha{
+    
+    width: 600px;
+    height: 680px;
+    margin-left: 720px;
+    margin-top: 100px;
+    border-radius: 100px;
+   }
+
+.derecha  h2{
+    color: white;
+    margin-left: 230px;
+}
+
+.derecha ul li{
+    color: white;
+    list-style: none;
+    margin-left: 20px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.derecha h3{
+    margin-top: 18px;
+    margin-bottom: 20px;
+    color: white;
+   
+}
+
+.video {
+    border-radius: 20px;
+    margin-left: 50px;
+}
+
+.abajoderecha{
+    
+    float: right;
+    width: 700px;
+    height: 600px;
+    margin-right: 1px;
+}
+
+.abajoderecha h2{
+    color: white;
+    margin-left: 200px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-size: 28px;
+    }
+
+.abajoderecha p{
+     color: white;
+    font-size: 22px;
+    text-align: center;
+    margin-left: 30px;
+    margin-top: 200x;
+    padding: 4px;
+    
+}
+
+.mapa{
+    
+    margin-left: 150px;
+    
+    
+}
+
+.mapaa{
+    
+    margin-top: 50px;
+   
+    
+}
+.redes{
+    text-align: center;
+    margin-top: 2000px;
+    margin-left: 380px;
+    width: 600px;
+
+  
+
+}
+
+
+.redes a {
+    
+    padding: 40px;
+}
