@@ -120,7 +120,20 @@ header{
     margin-top: 40px;
     border-radius: 20px;
     
+     background-color: #C0392B;
+  -webkit-transition: 1s linear;
+  transition: 1s linear;
+    
 }
+.imagen-pollo:hover{
+  
+   -webkit-transform: scale(.5);
+  transform: scale(.5);
+    
+    
+}
+
+
 
 .parrafo{
     font-size: 20px;
