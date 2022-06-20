@@ -14,7 +14,7 @@ body{
 
 
 header{
-    width: 100%;
+    width: 100vh;
     background-image:url(../imagenes/fondo-11.gif);
     background-repeat: no-repeat;
     background-position: 0px 0px 0px 500px 200px;
