@@ -15,10 +15,16 @@ body{
 
 header{
     width: 100vw;
-    background-image:url(../imagenes/fondo-11.gif);
-    background-repeat: no-repeat;
-    background-position: 0px 0px 0px 500px 200px;
+   
 }
+
+@media(min-width:700px) {
+    header{
+        background-image:url(../imagenes/fondo-11.gif);
+        background-repeat: no-repeat;
+        background-position: 100%; }
+   }
+
 
 #titulo{
     margin-left: 35px;
